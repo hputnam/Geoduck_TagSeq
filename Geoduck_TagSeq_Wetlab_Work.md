@@ -1,19 +1,8 @@
 # Geoduck TagSeq Wetlab Work
 
----
-layout: post
-title: 20200824 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-08-24'
-categories: Processing
-tags: geoduck, zymo, extractions
----
-## 20200824 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
-
-#### **Objective and summary:**
+#### **20200824 Extractions; Objective and summary:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md) for 16 samples
-
 
 #### Summary:
   - **Extractions**:
@@ -76,17 +65,8 @@ tags: geoduck, zymo, extractions
 
 NA - *COMPLETED ON 20200825*
 
----
-layout: post
-title: 20200825 Juvenile Panopea generosa DNa RNA Extractions
-date: '2020-08-25'
-categories: Processing
-tags: geoduck, zymo, extractions, DNA, RNA
----
-## 20200825 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
 
-#### **Objective and summary:**
+## **20200825 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md) for 16 samples
 
@@ -104,7 +84,7 @@ tags: geoduck, zymo, extractions, DNA, RNA
       - Tape Station == 24 total samples
 
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers | | | Extraction and QC | | |  |
@@ -121,7 +101,7 @@ tags: geoduck, zymo, extractions, DNA, RNA
 | 20190814 | 21 | AHSM | 1531 | 10 | I4 | 20200825  | Y | Y | Y |
 | 20190814 | 21 | EHAA | 1638 | 10 | B6 | 20200825  | Y | Y | Y |
 
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -140,30 +120,21 @@ tags: geoduck, zymo, extractions, DNA, RNA
 | 1531       	|     66.6     |     66.4     |      161      	|      159       |
 | 1638       	|     116      |     116      |      200      	|      199       |
 
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200825_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200825_Gel.jpg "gel_20200825")
 
 
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25%20-%2016.41.23.pdf)
 
 Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25%20-%2016.59.50.pdf)
 
----
-layout: post
-title: 20200826 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-08-26'
-categories: Processing
-tags: geoduck, zymo, extractions, dna, rna
----
-## 20200826 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
 
-#### **Objective and summary:**
+## **20200826 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -176,7 +147,7 @@ tags: geoduck, zymo, extractions, dna, rna
       - No QC completed today; grouped with samples on 20200827
 
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers | | | Extraction and QC | | |  |
@@ -193,33 +164,24 @@ tags: geoduck, zymo, extractions, dna, rna
 | 20190731 | 7  | EHS | 389  | 5  | E5 | 20200826  | N | N | N |
 | 20190807 | 14 | AHA | 833  | 17 | I6 | 20200826  | N | N | N |
 
-### Qubit Results
+#### Qubit Results
 ----------
 
 NA - *COMPLETED ON 20200827*
 
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 NA - *COMPLETED ON 20200827*
 
 
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 NA - *COMPLETED ON 20200827*
 
----
-layout: post
-title: 20200827 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-08-27'
-categories: Processing
-tags: geoduck, zymo, extrations, DNA, RNA
----
-## 20200827 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
 
-#### **Objective and summary:**
+## **20200827 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -234,7 +196,7 @@ tags: geoduck, zymo, extrations, DNA, RNA
       - all 10 from 20200826
 
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers | | | Extraction and QC | | |  |
@@ -251,7 +213,7 @@ tags: geoduck, zymo, extrations, DNA, RNA
 | 20190814 | 21  | EHSA | 1576  | 11 | G4 | 20200827  | Y | Y | Y |
 | 20190814 | 21  | EHSA | 1567  | 9  | G7 | 20200827  | Y | Y | Y |
 
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -281,30 +243,21 @@ tags: geoduck, zymo, extrations, DNA, RNA
 | 833       	|     46.0     |     45.6     |      104      	|      103       |
 
 
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200827_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200827_Gel.jpg "gel_20200827")
 
 
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2016.55.16.pdf)
 
 Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2017.17.31.pdf)
 
----
-layout: post
-title: 20200903 Juvenile Panopea generosa DNa RNA Extractions
-date: '2020-09-04'
-categories: Processing
-tags: geoduck, zymo, extractions, dna, rna
----
-## 20200827 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
 
-#### **Objective:**
+## **20200902-0903 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -320,7 +273,7 @@ tags: geoduck, zymo, extractions, dna, rna
       - all 10 from 20200902
 
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers | | | Extraction and QC | | |  |
@@ -347,7 +300,7 @@ tags: geoduck, zymo, extractions, dna, rna
 | 20190814 | 21  | EHMM | 1455  | 11 | C5 | 20200903  | Y | Y | Y |
 | 20190814 | 21  | EHSA | 1572  | 17  | F2 | 20200903  | Y | Y | Y |
 
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -377,30 +330,20 @@ tags: geoduck, zymo, extractions, dna, rna
 | 1572       	|     75.4     |     73.0     |      222      	|      220       |
 
 
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200903_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200903_Gel.jpg "20200903_Gel")
 
 
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-03_16.45.48.pdf)
 
 Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-03_17.02.55.pdf)
 
----
-layout: post
-title: 20200909 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-09-14'
-categories: Processing
-tags: geoduck, zymo, extractions, dna, rna
----
-## 20200909 Juvenile *Panopea generosa* DNA/RNA extractions
-----------
-
-#### **Objective:**
+### **20200908-0909 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -416,7 +359,7 @@ tags: geoduck, zymo, extractions, dna, rna
       - all 10 from 20200908
 
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers |  Extraction and QC | | |  |
@@ -443,9 +386,7 @@ tags: geoduck, zymo, extractions, dna, rna
 | 20190814 | 21  | AHMA | 1617 | 20200909  | Y | Y | Y |
 | 20190814 | 21  | AHSM | 1512 | 20200909  | Y | Y | Y |
 
-
-
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -474,14 +415,12 @@ tags: geoduck, zymo, extractions, dna, rna
 | 1617       	|     64.6     |     63.6     |      132      	|      130       |
 | 1512       	|     44.4     |     44.0     |      25.2      	|      25.2      |
 
-
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200909_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200909_Gel.jpg "20200909_Gel")
 
-
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-09%20-%2016.44.41.pdf)
@@ -489,15 +428,7 @@ Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/i
 Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-09%20-%2016.56.21.pdf)
 
 
----
-layout: post
-title: 20200910 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-09-14'
-categories: Processing
-tags: geoduck, zymo, extractions, dna,rna
----
-
-#### **Objective:**
+## **20200910 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -509,7 +440,7 @@ tags: geoduck, zymo, extractions, dna,rna
   - **QC checklist**:
     - 10 total samples
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers |  Extraction and QC | | |  |
@@ -526,9 +457,7 @@ tags: geoduck, zymo, extractions, dna,rna
 | 20190814 | 21  | EHAA | 1609 | 20200910  | Y | Y | Y |
 | 20190814 | 21  | EHMA | 1584 | 20200910  | Y | Y | Y |
 
-
-
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -547,27 +476,17 @@ tags: geoduck, zymo, extractions, dna,rna
 | 1609       	|     70.0     |     69.0     |      NA       	|      NA        |
 | 1584       	|     57.6     |     57.8     |      210      	|      210       |
 
-
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200910_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200909_Gel.jpg "20200910_Gel")
 
-
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-10%20-%2016.30.29.pdf)
 
----
-layout: post
-title: 20200917 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-09-22'
-categories: Processing
-tags: geoduck, extractions, zymop, dna, rna, tagseq
----
-
-#### **Objective:**
+## **20200917 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
 
@@ -581,7 +500,7 @@ tags: geoduck, extractions, zymop, dna, rna, tagseq
         - 10 from 20200916
         - 10 from 20200917
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers |  Extraction and QC | | |  |
@@ -609,8 +528,7 @@ tags: geoduck, extractions, zymop, dna, rna, tagseq
 | 20190814 | 21  | EHSM | 1527 | 20200917  | Y | Y | Y |
 | 20190814 | 21  | EHSM | 1474 | 20200917  | Y | Y | Y |
 
-
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -640,31 +558,21 @@ tags: geoduck, extractions, zymop, dna, rna, tagseq
 | 1527       	|     72.2     |     71.2     |      228       	|      224       |
 | 1474       	|     29.6     |     29.8     |      19.8      	|      19.4      |
 
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200917_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200917_Gel.jpg "20200917_Gel")
 
-
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-17%20-%2016.44.13.pdf)
 
 Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-17%20-%2017.02.45.pdf)
 
----
-layout: post
-title: 20200923 Juvenile Panopea generosa DNA RNA Extractions
-date: '2020-09-24'
-categories: Processing
-tags: geoduck, dna, rna, zymo, extractions, OA
----
-
-#### **Objective:**
+## **20200918-0923 Extractions:**
 
 - Follow the Zymo Research Quick-DNA/RNA MiniPrep Plus Kit protocol and homogenization [here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-19-Updated-protocol-DNA-RNA-Extraction-of-geoduck-samples-(Zymo-kit).md)
-
 
 #### Summary:
   - **Extractions**:
@@ -675,7 +583,7 @@ tags: geoduck, dna, rna, zymo, extractions, OA
         - 10 SAMPLES EXTRACTED ON 20200918
         - 6 from 20200923
 
-### **Extraction and QC checklist:**
+#### **Extraction and QC checklist:**
 ----------
 
 | Experiment  | | | Sample Identifiers |  Extraction and QC | | |  |
@@ -699,8 +607,7 @@ tags: geoduck, dna, rna, zymo, extractions, OA
 | 20190814 | 21  | EHSA | 1632 | 20200923  | Y | Y | Y |
 | 20190814 | 21  | EHSM | 1510 | 20200923  | Y | Y | Y |
 
-
-### Qubit Results
+#### Qubit Results
 ----------
 
 | Sample      | DNA (ng/uL)  |              |   RNA (ng/uL) 	|                |
@@ -726,14 +633,12 @@ tags: geoduck, dna, rna, zymo, extractions, OA
 | 1632       	|     16.4     |     16.9     |      NA       	|      NA        |
 | 1510       	|     70.4     |     71.6     |      174      	|      177       |
 
-
-### Gel Electrophoresis
+#### Gel Electrophoresis
 ----------
 
 ![20200923_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200923_Gel.jpg "20200923_Gel")
 
-
-### TapeStation Results
+#### TapeStation Results
 ----------
 
 Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-23%20-%2015.03.25.pdf)
@@ -746,7 +651,7 @@ categories: Processing
 tags: geoduck, qc, dyna, rna, extractions, repeated
 ---
 
-#### **Objective:**
+## **20201001 Repeated QC:**
 
 Repeat Qubit for **sample 350**
 - originally extracted on [20200826](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200826-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and QC was completed on [20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) showing no DNA or RNA
@@ -755,7 +660,7 @@ Complete TapeStation for **samples 1632 and 1576**
 - sample 1576 was originally extracted and QC on [20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) was a low  [Tapestation signal ](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2016.55.16.pdf)
 - sample 1632 was originally completed on [20200923](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200923-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and the Tapestation was not completed due to a poor Qubit signal.
 
-### Qubit Results (sample 350)
+#### Qubit Results (sample 350)
 ----------
 
 - low DNA and very high RNA! A high signal like what was detected in ![Tapestation](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2016.55.16.pdf) on 20200827
@@ -767,20 +672,13 @@ Complete TapeStation for **samples 1632 and 1576**
 | Standard 2 	|   20346.08   |   19834.95   |     9500.84   	|     9368.80    |
 | 350        	|     3.72     |     3.48     |      206      	|      208       |
 
-### TapeStation Results (samples 1632 and 1576)
+#### TapeStation Results (samples 1632 and 1576)
 ----------
 
 Run [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-10-01%20-%2011.21.05.pdf)
 
----
-layout: post
-title: TagSeq UT Library QC
-date: '2020-12-09'
-categories: Processing
-tags: tagseq, ut, library, quality, RNA
----
 
-### TagSeq UT Library QC
+## TagSeq UT Library QC
 
 - 2020-10-21
 ![2020-10-21](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/QB20400_Eukaryote_Total_RNA_Nano_DE34903795_2020-10-21_17-03-41.pdf "2020-10-21")
@@ -793,8 +691,8 @@ tags: tagseq, ut, library, quality, RNA
 
 Re: Job# JA20267; TagSeq geoduck clam samples - Hollie Putnam and Sam Gurr, University of Rhode Island
 
-Sample preparation: RNA extractions were completed with Zymo Quick DNA/RNA kit and quantity and quality were evaluated with Qubit 3 and Tapestation. Samples were loaded in 96-well plates normalized to target 10 ng/µl at a total volume of 50 µl (total RNA 500 ng). All samples were diluted with RNAse free water. Two wells in plate #1 (C5 and C6) are estimated < 10 ng/µl and are marked. Further, plate #1 H8 does not contain a sample. 
+Sample preparation: RNA extractions were completed with Zymo Quick DNA/RNA kit and quantity and quality were evaluated with Qubit 3 and Tapestation. Samples were loaded in 96-well plates normalized to target 10 ng/µl at a total volume of 50 µl (total RNA 500 ng). All samples were diluted with RNAse free water. Two wells in plate #1 (C5 and C6) are estimated < 10 ng/µl and are marked. Further, plate #1 H8 does not contain a sample.
 
-Package details: Each plate is properly sealed and labeled with the job number 'JA20267' on the side of the plate and foil lid. The side of each plate is also labeled with the preparation date, name, and plate number. Each plate was carefully packed in a labelled bag with the job and plate numbers, wrapped in packing foam, and inserted in dry ice. Included in the package are the plate map and the approved 'quotation for services' form. 
+Package details: Each plate is properly sealed and labeled with the job number 'JA20267' on the side of the plate and foil lid. The side of each plate is also labeled with the preparation date, name, and plate number. Each plate was carefully packed in a labelled bag with the job and plate numbers, wrapped in packing foam, and inserted in dry ice. Included in the package are the plate map and the approved 'quotation for services' form.
 UPS tracking number: 1Z5412RV0124572282
-Plate map attached '20201020-Gurr-TagSeq-UTAustin'. 
+Plate map attached '20201020-Gurr-TagSeq-UTAustin'.
