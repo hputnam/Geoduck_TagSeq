@@ -10,8 +10,8 @@
 	- [Upload reference genome](#Reference-genome-upload-to-HPC)
 	- [About HISAT2](#HISAT2-alignment)
 	- [About samtools](#samtools)
-	- [Run index and alignment](#HPC-Job-HISAT2-Index-Reference-&-Alignment) (HPC script)
-  - [StringTie: Assembly](#Assembly-&-quantification)  
+	- [Run index and alignment](#HPC-Job-HISAT2-Index-Reference-Alignment) (HPC script)
+  - [StringTie: Assembly](#Assembly-quantification)  
 	- [About StringTie](#StringTie)
 ## Initial diagnostics upon sequence upload to HPC
 --------------------------------------------
