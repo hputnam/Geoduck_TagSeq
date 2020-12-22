@@ -3,13 +3,16 @@
 ## <span style="color:blue">**Table of Contents**</span>
   - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
       - [Count raw reads](#Count-the-number-of-read-files)
-      - [Digital fingerprint md5sums](#run-checksum)
-  - [Initial quality check](#Quality-check-of-raw-reads)
-  - [Trim and post-trim quality check](#Trimming-and-post-trim-quality-check-of-'clean'-reads)
-  - [Alignment of cleaned reads to reference](#Alignment-of-cleaned-reads-to-reference)
+      - [Digital fingerprint md5sums](#run-checksum) (HPC script)
+  - [Initial quality check](#Quality-check-of-raw-reads) (HPC script)
+  - [Trim and post-trim quality check](#Trimming-and-post-trim-quality-check-of-'clean'-reads) (HPC script)
+  - [HISAT2: Alignment of cleaned reads to reference](#Alignment-of-cleaned-reads-to-reference)
 	- [Upload reference genome](#Reference-genome-upload-to-HPC)
-	- [About hisat2](#HISAT2-alignment)
-	  
+	- [About HISAT2](#HISAT2-alignment)
+	- [About samtools](#samtools)
+	- [Run index and alignment](#HPC-Job:-HISAT2-Index-Reference-&-Alignment) (HPC script)
+  - [StringTie: Assembly](#Aassembly-&-quantification)  
+	- [About StringTie](#StringTie)
 ## Initial diagnostics upon sequence upload to HPC
 --------------------------------------------
 ### Count the number of read files
@@ -285,12 +288,14 @@ done
 ```
 - HISAT2 complete with format prepared for StringTie assembler!
 
-### StringTie assembly & quantification
+## Assembly & quantification
+
+### StringTie
 
 **About:** StringTie is a fast and efficient assembler of RNA-Seq alignments to assemble and quantitate full-length transcripts.  putative transcripts. 
 For our use, we will input short mapped reads from HISAT2. StringTie's ouput can be used to identify DEGs in programs such as DESeq2 and edgeR
 
 More information on StringTie can be read [here](https://ccb.jhu.edu/software/stringtie/)!
 
-[Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) is another assembler that we will not use. [Read this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835/#:~:text=On%20a%20simulated%20data%20set,other%20assembly%20software%2C%20including%20Cufflinks.)
+[Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) is another assembler option we will not use. [Read this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835/#:~:text=On%20a%20simulated%20data%20set,other%20assembly%20software%2C%20including%20Cufflinks.)
 
